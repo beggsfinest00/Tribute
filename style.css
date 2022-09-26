@@ -1,0 +1,49 @@
+span {
+	margin:5vw;
+	color: whitesmoke;
+	font-size: 25px;
+}
+
+img {
+	width:300px;
+  height:300px;
+  object-fit:cover;
+  border-radius:50%;
+}
+
+body {
+	background-color:#4b395d;
+	color: whitesmoke;
+}
+
+#summary {
+	margin-top: 100px;
+	font-size: 20px;
+}
+
+#list {
+    margin-top: 50px;
+    margin-left: 25px;
+    font-size: 20px;
+}
+
+#quote {
+	margin-top: 50px;
+	text-align: center;
+	font-size: 35px;
+}
+
+
+.body2 {
+   font-family: Times New Roman;
+   background-color:#4b395d;
+   color: whitesmoke;
+}
+
+
+a:link {
+	color: whitesmoke;
+}
+a:visited {
+	color: red;
+}
